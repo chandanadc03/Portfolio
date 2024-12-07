@@ -92,8 +92,8 @@ Here's a breakdown of the project structure:
 ```
 Portfolio/
 ├── index.html         # Main HTML file
-├── chandu.css          # Stylesheet for custom design
-├── chandu.js          # JavaScript interactions
+├── chanduport.css          # Stylesheet for custom design
+├── chanduport.js          # JavaScript interactions
 └── README.md           # Documentation and setup instruction
 ```
 
