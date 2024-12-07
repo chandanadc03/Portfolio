@@ -1,2 +1,2 @@
 # Portfolio
-my portfolio using web development course
+Portfolio using web development course
